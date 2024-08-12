@@ -1,0 +1,9 @@
+[submodule "5_sem/Веб_прога/web-lab-1"]
+	path = 5_sem/Веб_прога/web-lab-1
+	url = https://github.com/Karim90403/web-lab-1
+[submodule "5_sem/Веб_прога/web-lab-2"]
+	path = 5_sem/Веб_прога/web-lab-2
+	url = https://github.com/Karim90403/web-lab-2
+[submodule "5_sem/Веб_прога/web-lab-3"]
+	path = 5_sem/Веб_прога/web-lab-3
+	url = https://github.com/Karim90403/web-lab-3
